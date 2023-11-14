@@ -24,7 +24,7 @@ BOSSLE - 날씨 API를 활용한 잠금화면 자동 변경 앱
 - 날씨 API를 활용하여 실시간 날씨 정보를 받아오고, 이를 바탕으로 사용자의 잠금화면에 비 애니메이션을 합성한 영상을 라이브 배경화면으로 설정하는 기능을 채택. 
 - 사용자의 잠금화면을 자동으로 업데이트함으로써, 별도의 날씨 확인 작업 없이도, 비가 오는 날을 쉽게 인지할 수 있게 되어 생활의 편리성과 효율성을 증대시킬 수 있다.
 
-## ⚙️개발 환경
+## ⚙️개발 환경 (수정해야함)
 
 
 <div align=center>
@@ -43,3 +43,12 @@ BOSSLE - 날씨 API를 활용한 잠금화면 자동 변경 앱
 ![](https://img.shields.io/badge/jdk-20.0.1-blue?style=for-the-badge&logo=appveyor?logo=null)
 ![](https://img.shields.io/badge/Node.js-18.16.0-green?style=for-the-badge&logo=appveyor?logo=null)
 </div>
+
+## 📚주요 라이브러리 (수정해야함)
+
+- react-native-picker 
+
+
+
+
+## 📱기능 설명
